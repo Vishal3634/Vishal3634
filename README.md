@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal Wadekar
 
-<!--
-**Vishal3634/Vishal3634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Python • SQL • Power BI • PostgreSQL • ETL Pipelines  
+📊 Passionate about turning raw data into meaningful business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills:
+- **Languages**: Python, SQL
+- **Tools**: Power BI, Tableau, Excel
+- **Database**: PostgreSQL, ClickHouse
+- **ETL & APIs**: Python (requests, psycopg2), JotForm API, SMTP
+
+---
+
+## 📈 Projects
+
+### 🚀 [Tech Survey ETL & Analytics Dashboard](https://github.com/yourusername/tech-survey-dashboard)
+> Built a complete ETL pipeline to extract tech usage data via JotForm API and visualize using Power BI
+
+- Extracted & cleaned data with Python
+- Stored in PostgreSQL
+- Visualized usage patterns, screen time, and satisfaction by demographics
+
+### 📦 [Vendor Performance Sales Analysis](https://github.com/yourusername/vendor-sales-analysis)
+> Ingested and analyzed sales data to detect low sales–high margin vendors using Pandas and Matplotlib
+
+---
+
+## 📬 Connect with me:
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:youremail@example.com)
+
