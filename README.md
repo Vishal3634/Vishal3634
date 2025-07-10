@@ -28,6 +28,6 @@
 ---
 
 ## 📬 Connect with me:
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/vishal-wadekar-8b05152b7)
+- [Email](mailto:vishalwadekar718@gmail.com)
 
