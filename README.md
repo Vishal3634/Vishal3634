@@ -8,7 +8,7 @@
 ## 🛠️ Skills:
 - **Languages**: Python, SQL
 - **Tools**: Power BI, Tableau, Excel
-- **Database**: PostgreSQL, ClickHouse
+- **Database**: PostgreSQL, MySQL
 - **ETL & APIs**: Python (requests, psycopg2), JotForm API, SMTP
 
 ---
